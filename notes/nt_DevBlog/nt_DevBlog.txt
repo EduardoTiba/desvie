@@ -1,0 +1,90 @@
+11/01/26
+dia 1:
+
+Oi, aqui é o du. Tô fazendo mais um jogo, não que eu vá postar, mas achei muito legal uma 
+ideia que vim pensando. Um jogo de desviar de meteoros, e ganhar pontos e.... só. Tô escrevendo
+isso logo que voltei de Riviera, tive essa ideia lá e amei.
+
+Até agora já fiz as 3 sprites mais importantes e ja programei o básico, como movimentação e a destruição do meteoro após ultrapassar
+a room. Amanhã planejo fazer uma variável global para pontos do player, e uma geração aleatória de meteoros. Acho que só isso ta bom.
+
+
+ATENÇÃO AQUI, EU DO FUTURO!!!
+Um jogo relativamente tranquilo e facíl??? De fazer? Não sei, mas amanhã acho melhor organizar alguns tópicos envolvendo telas, flu-
+xos, gameplay, obstáculos, etc...
+
+*Começe a planejar do jeito que aprendeu no curso ;) 
+
+Tchau;
+
+
+12/01/26
+dia 2:
+
+Oi, hoje consertei um bug dos meteoros. Antes se um deles encostassem no limite, todos eram destruídos, mas consegui eliminar esse
+problema.
+
+Para hoje planejo:
+	-Fazer os pontos; FEITO
+	-Geração aleatória dos meteoros; FEITO
+	
+OBS:Hoje eu empolguei e já fiz o limite da room para o player. Amanhã é fazer o incremento de velocidade do meteoro e do player e
+definir o limite de 5 e 6, respectivamente;
+
+
+13/01/26
+dia 3;
+
+Hoje fiz duas mudanças. Refiz a sprite do player e mudei o limite de velocidade do meteoro e do player.
+
+	O que terminar?
+		-Fazer telas de inicio e gameover....... E uma tela de créditos. Por que? Porque minha irmã me ajudou na arte............
+	Valeu Carol :) você ajudou em deixar mais legal;
+		-Zerar os pontos se o player perder;
+		
+De noite, a Carol e minhas primas testaram o jogo... Tava bem ruim a gameplay. Tive que aumentar o tempo de geração dos meteoros
+e diminuir a velocidade de tudo para deixar o jogo menos frenético, mas adorei receber seus feedbacks. Também mudei as sprites do
+gato (troquei de cor) e do meteoro (deixei ele mais irregular, tava parecendo um biscoito...).
+
+Agora é só polir uns elementos, colocar um tutorial e correr pro abraço;
+
+
+14/01/26
+dia 4:
+Elementos para polir:
+
+	-Ao invés da velocidade do meteoro aumentar, é melhor diminuir o tempo de geração; NÃO FEITO
+	-Repetir duas vezes a criação de meteoros. O jogo ta muito devagar; NÃO FEITO
+	-Colocar um rabo pra sprite do gato; NÃO SEI DESENHAR UM RABO :(
+
+
+15/01/2026
+dia 5:
+Polimento:
+
+	-Fazer uma room para dar as instruções, não sei porque, mas parece ético;FEITO
+	-Arrumar o menu, os botões devem aparecer primeiro e depois como prosseguir;FEITO
+	-Se tiver algo de ruim no jogo eu conserto
+
+
+16/01/2026
+dia 6
+acabamento:
+
+Oi, é o Edu. Sinto que fiz o que pude para esse protótipo, adorei a ideia e me diverti no processo. Senti como era receber feedbacks
+e são realmente muito bons. Tentei ajustar o jogo para algo mais tranquilo de jogar, e consegui, mais ou menos.
+
+Bom, queria escrever o quão feliz eu estou já que esse é um jogo feito sem tutoriais, mas agradeço os tutoriais do Guselect, ponto
+e vírgula e NoNe class.
+
+Estava pensando em postar no itch.io, é uma boa ideia, porque eu posso ter uma experiência de como é postar um jogo e talvez algué-
+m comente no meu jogo dando feedback para melhorar meu jogo, assim eu posso entender mais o que as pessoas querem.
+
+Agora acho que posso encerar esse projeto, no total eu demorei 5 dias para finalizar o protótipo, mas foi divertido;
+
+
+
+
+
+
+
