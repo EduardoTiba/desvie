@@ -7,11 +7,13 @@
   "inheritLayers":false,
   "instanceCreationOrder":[
     {"name":"inst_7E01F7D4","path":"rooms/rm_creditos/rm_creditos.yy",},
+    {"name":"inst_3E3B4383","path":"rooms/rm_creditos/rm_creditos.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Texto","depth":0,"effectEnabled":true,"effectType":null,"gridX":28,"gridY":28,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v4","%Name":"inst_7E01F7D4","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7E01F7D4","objectId":{"name":"obj_creditos","path":"objects/obj_creditos/obj_creditos.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":28.0,"y":56.0,},
+        {"$GMRInstance":"v4","%Name":"inst_3E3B4383","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3E3B4383","objectId":{"name":"obj_voltar_menu","path":"objects/obj_voltar_menu/obj_voltar_menu.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":214.0,"y":448.0,},
       ],"layers":[],"name":"Texto","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"personagem","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_6C8BF85F","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_6C8BF85F","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"x":208.0,"y":32.0,},
