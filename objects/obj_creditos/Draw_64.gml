@@ -1,7 +1,7 @@
 /////@description Fazendo os créditos
 
 //Agradecendo a mim mesmo??? e à Carol
-draw_text_ext_transformed(x, y, "Portugues: \n-Eduardo Tiba: Game designer, dev do projeto, trabalhou na pixel art e programou;\n-Carol: Me ajudou na arte;\n\n\nEnglish:\n-Eduardo Tiba: Game designer, dev´s project, worked in the pixel art and programmed;\n-Carol: helped me with the art;", 40, 440, .8, 1, 0);
+draw_text_ext(x, y, "Portugues: \n-Eduardo Tiba: Game designer, dev do projeto, trabalhou na pixel art e programou;\n-Carol: Me ajudou na arte;\n\n\n\n\nEnglish:\n-Eduardo Tiba: Game designer, dev´s project, worked in the pixel art and programmed;\n-Carol: helped me with the art;", 30, 390);
 
 //indicando o que o jogador deve fazer em português
 draw_text(x, y+164, "Aperte 'space' para voltar ao menu");
