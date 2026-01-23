@@ -75,11 +75,11 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"rm_gameover","path":"rooms/rm_gameover/rm_gameover.yy",},},
     {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"roomId":{"name":"rm_creditos","path":"rooms/rm_creditos/rm_creditos.yy",},},
     {"roomId":{"name":"rm_instrucoes","path":"rooms/rm_instrucoes/rm_instrucoes.yy",},},
     {"roomId":{"name":"rm_partida","path":"rooms/rm_partida/rm_partida.yy",},},
-    {"roomId":{"name":"rm_gameover","path":"rooms/rm_gameover/rm_gameover.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
