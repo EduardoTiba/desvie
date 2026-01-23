@@ -2,5 +2,5 @@
 vel += 0.2;
 
 //Após isso o alarme deve ir tocando constantemente
-alarm[0] = 1800;
+alarm[0] = 3000;
 
