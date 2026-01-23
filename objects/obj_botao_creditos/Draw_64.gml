@@ -10,7 +10,7 @@ if (creditos == true && image_alpha >= 1)
 	//cancelando o alarme 0, para parar de somar o alpha
 	alarm[0] = 0;
 	//Escrevendo "créditos" com uma variável 
-	draw_text_transformed(x, y, texto, 0.6, 0.7, 0);
+	draw_text(x, y, texto);
 }
 
 //resetando os draw_set para não afetar os outros textos

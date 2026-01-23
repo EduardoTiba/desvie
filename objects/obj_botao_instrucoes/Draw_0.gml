@@ -11,7 +11,7 @@ if (instrucoes == true && image_alpha >= 1)
 	alarm[0] = 0;
 	
 	//mostrando o texto do botão se o botão já estiver visível
-	draw_text_transformed(x, y, "Como jogar/\nHow to play", 0.8, 0.8, 0);
+	draw_text(x, y, "Como jogar/\nHow to play");
 }
 
 //resetando os draw_set

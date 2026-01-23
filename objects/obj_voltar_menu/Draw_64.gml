@@ -5,7 +5,7 @@
 draw_set_halign(1);
 draw_set_valign(1);
 
-draw_text_transformed(x, y,"Voltar ao menu\nBack to menu", .7, .7, 0 );
+draw_text(x-3, y,"Voltar ao menu\nBack to menu");
 
 //resetando os draw_set
 draw_set_halign(-1);

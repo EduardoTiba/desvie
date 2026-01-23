@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_voltar_menu",
+  "%Name":"obj_botao_jogar_novamente",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_voltar_menu",
+  "name":"obj_botao_jogar_novamente",
   "overriddenProperties":[],
   "parent":{
     "name":"botoes",
@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_botao_instrucoes",
-    "path":"sprites/spr_botao_instrucoes/spr_botao_instrucoes.yy",
+    "name":"spr_botao_jogar_novamente",
+    "path":"sprites/spr_botao_jogar_novamente/spr_botao_jogar_novamente.yy",
   },
   "spriteMaskId":null,
   "visible":true,
