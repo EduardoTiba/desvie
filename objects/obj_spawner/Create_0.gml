@@ -1,5 +1,8 @@
-//Alarme para a geração de meteoros
+//Alarme para a geração de meteoros:
+tempo1 = 180; //tempo do inicio do jogo
 
-alarm[0] = 180; //a cada 80 frames ou 1 segundo e 20 milisegundos, um meteoro deve ser gerado
+alarm[0] = tempo1;
 //OBS: se quiser mudar o tempo de geração do primeiro meteoro, ajuste aqui;
-//o tempo determinado aqui é essencial para o jogador testar os movimentos
+
+//variável de geração durante o jogo
+tempo_geracao = 55;
