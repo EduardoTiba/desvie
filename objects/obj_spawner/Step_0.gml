@@ -7,27 +7,27 @@ if (global.pontos == 40)
 
 if (global.pontos == 70)
 {
-	tempo_geracao = 50;
+	tempo_geracao = 46;
 }
 
 if (global.pontos == 110)
 {
-	tempo_geracao = 46;
+	tempo_geracao = 38;
 }
 
 if (global.pontos == 160)
 {
-	tempo_geracao = 44;
+	tempo_geracao = 35;
 }
 
 if (global.pontos == 230)
 {
-	tempo_geracao = 42;
+	tempo_geracao = 32;
 }
 
-if (global.pontos == 310)
+if (global.pontos == 0)
 {
-	tempo_geracao = 36;
+	tempo_geracao = 28;
 }
 
 if (global.pontos == 400)
