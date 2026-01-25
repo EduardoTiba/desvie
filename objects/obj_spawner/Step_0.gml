@@ -25,7 +25,7 @@ if (global.pontos == 230)
 	tempo_geracao = 32;
 }
 
-if (global.pontos == 0)
+if (global.pontos == 300)
 {
 	tempo_geracao = 28;
 }
