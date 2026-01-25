@@ -9,8 +9,8 @@
   "name":"obj_setinha",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"botoes",
+    "path":"folders/Objects/botoes.yy",
   },
   "parentObjectId":null,
   "persistent":false,

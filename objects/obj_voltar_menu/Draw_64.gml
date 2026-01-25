@@ -1,5 +1,3 @@
-//esse objeto aparece somente nas intruções
-
 //Escrevendo "voltar ao menu" 
 //primeiro alinhando o texto 
 draw_set_halign(1);
