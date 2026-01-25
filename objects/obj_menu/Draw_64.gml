@@ -17,6 +17,8 @@ alpha += alpha_add; //Equação para somar ou subtraír o alpha do título
 //alinhando o texto
 draw_set_halign(1);
 draw_set_valign(1);
+image_xscale = .6
+image_yscale = .6
 //escrevendo o título
 draw_text_transformed_colour(x, y, "Desvie!!!", 4, 4, 0, c_teal, c_teal, c_black, c_black, alpha);
 
