@@ -1,4 +1,6 @@
 //Movimento para a direita, enquanto a setinha da direita estiver 
 //sendo pressionada
-
-hspeed = vel;
+if (global.mover == true)
+{
+	hspeed = vel;
+}

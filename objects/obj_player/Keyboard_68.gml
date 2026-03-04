@@ -1,2 +1,5 @@
 //indo pra direita
-hspeed = vel;
+if (global.mover == true)
+{
+	hspeed = vel;
+}
