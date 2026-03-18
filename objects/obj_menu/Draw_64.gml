@@ -18,7 +18,7 @@ alpha += alpha_add; //Equação para somar ou subtraír o alpha do título
 draw_set_halign(1);
 draw_set_valign(1);
 //escrevendo o título
-draw_text_transformed_colour(x, y, "Desvie!!!", 4, 4, 0, c_teal, c_teal, c_black, c_black, alpha);
+draw_text_transformed_colour(x, y, "Desvie!!!", 4, 4, 0, c_teal, c_teal, c_black, c_black, 1);
 
 #endregion
 
